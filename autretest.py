@@ -1,2 +1,3 @@
 print("on m'a supprimé mon truc")
 print("salut les boys")
+print("j'adore l'internet")
